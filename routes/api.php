@@ -47,4 +47,4 @@ Route::resource('products', 'Product\ProductController', ['only' => ['index','sh
  * Users
  */
 
-Route::resource('users', 'User\UserController', ['except' => ['create','edit']]);
+Route::resource('users', 'User\UserController', ['except' => ['create','edit']]); 
