@@ -23,3 +23,5 @@ http://rest-api.app/api/buyers - list all buyers
 http://rest-api.app/api/users/ - list all users
 
 http://rest-api.app/api/buyers?page=2 - pagination implementation to get second page of buyers list
+
+![alt tag](https://github.com/MiroslavMogus/laravel-rest-api/blob/master/json.jpg)
